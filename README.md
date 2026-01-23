@@ -1,5 +1,3 @@
-# Gateway.fm Core R&D Technical Challenge
-
 ## Overview
 
 Two challenges demonstrating Go backend skills for Ethereum infrastructure:
